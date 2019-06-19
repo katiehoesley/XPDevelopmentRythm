@@ -40,7 +40,7 @@ Time: 1 block
 8.
 
 
-##  [Additional Resources for students who need clarification on certain programming subtopics in this lesson, links are provided below]
+##  Additional resources for students who need clarification on certain programming subtopics in this lesson are provided below
 - Continuous integration: https://www.thoughtworks.com/continuous-integration
 - Pair programming: http://www.extremeprogramming.org/rules/pair.html
 - Refactoring: https://en.wikipedia.org/wiki/Code_refactoring
