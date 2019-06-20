@@ -30,7 +30,7 @@ In order for students to be their most productive as a member of a team, a solid
 
 
 ###  Additional resources:
-`For students who need clarification on certain programming subtopics in this lesson are provided below`
+For students who need clarification on certain important programming subtopics in this lesson are provided below:
 
 - Continuous integration: https://www.thoughtworks.com/continuous-integration
 - Pair programming: http://www.extremeprogramming.org/rules/pair.html
