@@ -31,12 +31,12 @@ In order for students to be their most productive as a member of a team, a solid
 ###  Additional resources:
 For students who need clarification on certain important programming subtopics in this lesson are provided below:
 
-- Continuous integration: https://www.thoughtworks.com/continuous-integration
-- Pair programming: http://www.extremeprogramming.org/rules/pair.html
-- Refactoring: https://en.wikipedia.org/wiki/Code_refactoring
-- TDD: https://www.agilealliance.org/glossary/tdd/
-- What is XP? https://medium.com/@sreenivas/extreme-programming-xp-f0ad5066f737
-- Definition of XP: https://en.wikipedia.org/wiki/Extreme_programming
-- Visual map of XP: http://www.extremeprogramming.org/map/iteration.html
-- Scrum vs. XP: https://www.mountaingoatsoftware.com/blog/differences-between-scrum-and-extreme-programming
+* [Continuous integration](https://www.thoughtworks.com/continuous-integration)
+* [Pair programming](http://www.extremeprogramming.org/rules/pair.html)
+* [Refactoring](https://en.wikipedia.org/wiki/Code_refactoring)
+* [TDD](https://www.agilealliance.org/glossary/tdd/)
+* [What is XP?](https://medium.com/@sreenivas/extreme-programming-xp-f0ad5066f737)
+* [Definition of XP](https://en.wikipedia.org/wiki/Extreme_programming)
+* [Visual map of XP](http://www.extremeprogramming.org/map/iteration.html)
+* [Scrum vs. XP](https://www.mountaingoatsoftware.com/blog/differences-between-scrum-and-extreme-programming)
 
