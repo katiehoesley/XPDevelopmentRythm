@@ -16,8 +16,7 @@ In order for students to be their most productive as a member of a team, a solid
 
 
 ### Resources:
-- Slide Deck: https://docs.google.com/presentation/d/1q_sZhC24derLW99I-W-OKft4p_gN--2LoG6YU0rYzgY/edit?usp=sharing
-
+* [Slides](https://docs.google.com/presentation/d/1q_sZhC24derLW99I-W-OKft4p_gN--2LoG6YU0rYzgY/edit#slide=id.g5c0e2e3103_0_0)
 
 ### Instructions:
 
