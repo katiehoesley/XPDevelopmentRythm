@@ -1,8 +1,7 @@
 # The Development Rythm
 
 
-## Objectives: 
-
+### Objectives: 
 At the end of this lesson, students will be able to: 
 - Define the XP methodology and add context to it
 - Describe the relationship between developers and customers/businesses in the context of the XP methodology
@@ -10,17 +9,17 @@ At the end of this lesson, students will be able to:
 - Describe the advantages to using XP over other methodologies (like Scrum or Waterfall)
 
 
-## Overview
+### Overview:
 Time: 1 block 
 
 In order for students to be their most productive as a member of a team, a solid understanding of XP best practices and how this methodology functions in a practical, actionable way is very important. Instructor will talk about XP methodology at a high level, and then apply those high level concepts to day-to-day scenarios that the students will run into. 
 
 
-## Resources:
+### Resources:
 - Slide Deck: https://docs.google.com/presentation/d/1q_sZhC24derLW99I-W-OKft4p_gN--2LoG6YU0rYzgY/edit?usp=sharing
 
 
-## Instructions 
+### Instructions:
 
 1. Share objectives for the lesson. 
 2. Describe/discuss Agile methodologies and their use in the world of software development
@@ -30,7 +29,9 @@ In order for students to be their most productive as a member of a team, a solid
 6. Cold call checks for understanding of objectives
 
 
-##  Additional resources for students who need clarification on certain programming subtopics in this lesson are provided below
+###  Additional resources:
+`For students who need clarification on certain programming subtopics in this lesson are provided below`
+
 - Continuous integration: https://www.thoughtworks.com/continuous-integration
 - Pair programming: http://www.extremeprogramming.org/rules/pair.html
 - Refactoring: https://en.wikipedia.org/wiki/Code_refactoring
