@@ -1,5 +1,10 @@
 # The Development Rythm
 
+This module provides a day/week in the life snapshot of development with XP, introduces Scrum/XP/SAFe/etc.
+
+At the end of this lesson, students will be able to:
+Perform XP rituals effectively as part of an XP development team.
+
 
 ### Objectives: 
 At the end of this lesson, students will be able to: 
@@ -7,6 +12,7 @@ At the end of this lesson, students will be able to:
 - Describe the relationship between developers and customers/businesses in the context of the XP methodology
 - Diagram the XP cycle
 - Describe the advantages to using XP over other methodologies (like Scrum or Waterfall)
+- Perform XP rituals effectively as part of an XP development team
 
 
 ### Overview:
@@ -31,6 +37,10 @@ In order for students to be their most productive as a member of a team, a solid
 ###  Additional resources:
 For students who need clarification on certain important programming subtopics in this lesson are provided below:
 
+* [Agile Software Development](https://www.agilealliance.org/agile101/)
+* [SAFe](https://www.scaledagile.com/enterprise-solutions/what-is-safe/)
+
+* [12 Principles of Agile Development](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
 * [Continuous integration](https://www.thoughtworks.com/continuous-integration)
 * [Pair programming](http://www.extremeprogramming.org/rules/pair.html)
 * [Refactoring](https://en.wikipedia.org/wiki/Code_refactoring)
