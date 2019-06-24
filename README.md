@@ -23,6 +23,7 @@ In order for students to be their most productive as a member of a team, a solid
 
 ### Resources:
 * [Slides](https://docs.google.com/presentation/d/1q_sZhC24derLW99I-W-OKft4p_gN--2LoG6YU0rYzgY/edit#slide=id.g5c0e2e3103_0_0)
+* [Cold Call Checks for Understanding Worksheet](https://docs.google.com/document/d/1q1HK381zd-hIbMn-a7LuXzkE2DkI8eh9-7x_4XcW8XE/edit?usp=sharing)
 
 ### Instructions:
 
