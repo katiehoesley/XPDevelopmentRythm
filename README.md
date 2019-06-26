@@ -33,6 +33,7 @@ In order for students to be their most productive as a member of a team, a solid
 4. Discuss XP's goals, values, practices, roles, and compare/contrast to another Agile method (scrum)
 5. Describe a real-life "day in the life" of a member of an XP team
 6. Cold call checks for understanding of objectives
+7. *[Agile vs. Waterfall activity](http://www.agileadvice.com/2005/12/19/uncategorized/penny-queueing-exercise-lean-process/)
 
 
 ###  Additional resources:
